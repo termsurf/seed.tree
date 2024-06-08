@@ -12,7 +12,7 @@
 
 <h3 align='center'>seed.tree</h3>
 <p align='center'>
-  Not sure yet...
+  The BaseTree Standard Interface Library
 </p>
 
 <br/>
